@@ -1,0 +1,11 @@
+map:
+  - sensor: 3f98a2ae3a58ef40809c5ca7
+    actor: 36d02414405830d96b40e572
+  - sensor: adb93235afcc677c5c7be48f
+    actor: 36d02414405830d96b40e572
+  - sensor: adb93235afcc677c5c7be48f
+    actor: 6b4340d33a5f22bf554a0e69
+  - sensor: 21beaaf1a28aa607e9aafb66
+    actor: 36d02414405830d96b40e572
+  - sensor: 411be6dd1931a8d412fe064f
+    actor: 36d02414405830d96b40e572

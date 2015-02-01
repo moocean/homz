@@ -1,0 +1,11 @@
+mqtt:
+  host: localhost
+  port: 1883
+topics:
+  home: home
+  status: status
+  health: health
+  mapping: map
+  settings: set
+  registry: reg
+  error: err
